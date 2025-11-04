@@ -25,15 +25,4 @@ async function getEmails() {
 
 getEmails();
 
-
-
-
-
-
-
-
-
-
-
-
 Added Microsoft Graph API sample
